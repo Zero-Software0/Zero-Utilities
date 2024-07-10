@@ -39,7 +39,7 @@ SOFTWARE.
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.12+ (download from https://python.org)
 - ttkbootsrap (version tested 1.10.1)
 - PIL/pillow
 - nltk
@@ -50,4 +50,4 @@ SOFTWARE.
 2. ```pip install pillow```
 3. ```pip install nltk```
 
-*Intended for use on Windows operating systems*
+*Intended for use on Windows 7/8/10/11 operating systems*
